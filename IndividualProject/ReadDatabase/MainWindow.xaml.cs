@@ -22,6 +22,7 @@ namespace ReadDatabase
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Upload to github
     public partial class MainWindow : Window
     {
         DB_128040_bart0146Context db = new DB_128040_bart0146Context();
