@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Carsafa.Models.Owner>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color:white">Owners</h1>
+
+<h3 style="text-align:center; color: white">Select an owner to display the vehicles they own</h3>
+
+<style>
+    body {
+        background-image: url("https://wallpapercave.com/wp/wp4800183.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        font-weight: bold;
+        color: white;
+    }
+</style>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="text-align:center; font-weight: bold; color:white">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+@*             <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td> *@
+            <td style="text-align:left;">
+                    <a asp-action="Details" asp-route-id="@item.OwnerId" style="text-decoration:none;color:white">@Html.DisplayFor(modelItem => item.Name)</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

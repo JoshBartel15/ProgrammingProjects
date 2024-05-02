@@ -1,0 +1,1152 @@
+[
+  {
+    "VIN": "1GD02ZCG9BF078327",
+    "Year": 2004,
+    "Make": {
+      "make": "Volkswagen",
+      "CEO": "Oliver Blume",
+      "Founded": 1937,
+      "Website": "https://www.vw.com/"
+    },
+    "Model": "R32",
+    "Owners": [
+      {
+        "name": "Coretta Pomfret",
+        "saledate": null,
+        "purchasedate": "3/4/2004"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Hatchback"
+  },
+  {
+    "VIN": "1GYS3HEF1ER721002",
+    "Year": 2009,
+    "Make": {
+      "make": "Audi",
+      "CEO": "Gernot Dollner",
+      "Founded": 1909,
+      "Website": "https://www.audiusa.com/"
+    },
+    "Model": "A4",
+    "Owners": [
+      {
+        "name": "Robbert Isted",
+        "saledate": "8/22/2015",
+        "purchasedate": "2/2/2009"
+      },
+      {
+        "name": "Kristin Pedlar",
+        "saledate": null,
+        "purchasedate": "8/22/2015"
+      }
+    ],
+    "Color": "Black",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WBSPM9C54AE109833",
+    "Year": 2009,
+    "Make": {
+      "make": "Chevrolet",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.chevrolet.com/"
+    },
+    "Model": "Impala",
+    "Owners": [
+      {
+        "name": "Karlee Behne",
+        "saledate": "4/9/2012",
+        "purchasedate": "2/12/2009"
+      },
+      {
+        "name": "Lorna Stock",
+        "saledate": null,
+        "purchasedate": "4/9/2012"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "1G6AJ5S33E0624939",
+    "Year": 2009,
+    "Make": {
+      "make": "Dodge",
+      "CEO": "Tim Kuniskis",
+      "Founded": 1900,
+      "Website": "https://www.dodge.com/"
+    },
+    "Model": "Grand Caravan",
+    "Owners": [
+      {
+        "name": "Betti Bigmore",
+        "saledate": "10/25/2018",
+        "purchasedate": "11/27/2008"
+      },
+      {
+        "name": "Nicolina Whittock",
+        "saledate": null,
+        "purchasedate": "10/25/2018"
+      }
+    ],
+    "Color": "Gray",
+    "Type": "Van"
+  },
+  {
+    "VIN": "WA1DGAFE3ED679519",
+    "Year": 2017,
+    "Make": {
+      "make": "Volkswagen",
+      "CEO": "Oliver Blume",
+      "Founded": 1937,
+      "Website": "https://www.vw.com/"
+    },
+    "Model": "Passat",
+    "Owners": [
+      {
+        "name": "Kristin Pedlar",
+        "saledate": null,
+        "purchasedate": "3/6/2017"
+      }
+    ],
+    "Color": "Black",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "JM1BL1H4XA1446262",
+    "Year": 1996,
+    "Make": {
+      "make": "GMC",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.gmc.com/"
+    },
+    "Model": "Rally Wagon G3500",
+    "Owners": [
+      {
+        "name": "Cleopatra Vedeniktov",
+        "saledate": "6/3/2001",
+        "purchasedate": "12/18/1995"
+      },
+      {
+        "name": "Melina Ody",
+        "saledate": "12/11/2015",
+        "purchasedate": "6/3/2001"
+      },
+      {
+        "name": "Saxon Haggas",
+        "saledate": null,
+        "purchasedate": "12/11/2015"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "Van"
+  },
+  {
+    "VIN": "JN1AZ4EH2EM625745",
+    "Year": 1993,
+    "Make": {
+      "make": "Buick",
+      "CEO": "Mary Barra",
+      "Founded": 1903,
+      "Website": "https://www.buick.com/"
+    },
+    "Model": "Regal",
+    "Owners": [
+      {
+        "name": "Katharyn Sabbin",
+        "saledate": "12/1/1998",
+        "purchasedate": "11/15/1992"
+      },
+      {
+        "name": "Hussein Trevithick",
+        "saledate": null,
+        "purchasedate": "12/1/1998"
+      }
+    ],
+    "Color": "Brown",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "KNAFU6A24D5132475",
+    "Year": 2007,
+    "Make": {
+      "make": "GMC",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.gmc.com/"
+    },
+    "Model": "Canyon",
+    "Owners": [
+      {
+        "name": "Melina Ody",
+        "saledate": "1/21/2019",
+        "purchasedate": "7/17/2006"
+      },
+      {
+        "name": "Ashley Howard",
+        "saledate": null,
+        "purchasedate": "1/21/2019"
+      }
+    ],
+    "Color": "White",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "WBANV13589B916279",
+    "Year": 2011,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "Mustang",
+    "Owners": [
+      {
+        "name": "Court Southwell",
+        "saledate": null,
+        "purchasedate": "3/30/2011"
+      }
+    ],
+    "Color": "Red",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "3VW217AU5FM211438",
+    "Year": 2007,
+    "Make": {
+      "make": "Dodge",
+      "CEO": "Tim Kuniskis",
+      "Founded": 1900,
+      "Website": "https://www.dodge.com/"
+    },
+    "Model": "Caliber",
+    "Owners": [
+      {
+        "name": "Lorna Stock",
+        "saledate": "1/26/2015",
+        "purchasedate": "12/25/2006"
+      },
+      {
+        "name": "Court Southwell",
+        "saledate": null,
+        "purchasedate": "1/26/2015"
+      }
+    ],
+    "Color": "Green",
+    "Type": "Hatchback"
+  },
+  {
+    "VIN": "JTEBU4BFXCK675056",
+    "Year": 2005,
+    "Make": {
+      "make": "Infiniti",
+      "CEO": "Carlos Ghosn",
+      "Founded": 1989,
+      "Website": "https://www.infiniti.com/"
+    },
+    "Model": "Q45",
+    "Owners": [
+      {
+        "name": "Nicolina Whittock",
+        "saledate": null,
+        "purchasedate": "10/19/2004"
+      }
+    ],
+    "Color": "Yellow",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "1FT7W2A6XEE785694",
+    "Year": 2019,
+    "Make": {
+      "make": "BMW",
+      "CEO": "Harald Kruger",
+      "Founded": 1916,
+      "Website": "https://www.bmw.com/"
+    },
+    "Model": "6 Series",
+    "Owners": [
+      {
+        "name": "Leroy Robins",
+        "saledate": null,
+        "purchasedate": "7/19/2019"
+      }
+    ],
+    "Color": "Brown",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "2D4RN5DG9BR156949",
+    "Year": 2001,
+    "Make": {
+      "make": "Audi",
+      "CEO": "Gernot Dollner",
+      "Founded": 1909,
+      "Website": "https://www.audiusa.com/"
+    },
+    "Model": "TT",
+    "Owners": [
+      {
+        "name": "Constantina Spottiswood",
+        "saledate": null,
+        "purchasedate": "5/5/2001"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "1G4CU541814273310",
+    "Year": 2002,
+    "Make": {
+      "make": "Mercury",
+      "CEO": "Jim Farley",
+      "Founded": 1938,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "Villager",
+    "Owners": [
+      {
+        "name": "Herman Tunder",
+        "saledate": null,
+        "purchasedate": "11/27/2001"
+      }
+    ],
+    "Color": "Red",
+    "Type": "Van"
+  },
+  {
+    "VIN": "1G4GD5G34EF947994",
+    "Year": 2010,
+    "Make": {
+      "make": "Ram",
+      "CEO": "Tim Kuniskis",
+      "Founded": 2010,
+      "Website": "https://www.ramtrucks.com/"
+    },
+    "Model": "1500",
+    "Owners": [
+      {
+        "name": "Chas MacSharry",
+        "saledate": "11/2/2020",
+        "purchasedate": "8/18/2010"
+      },
+      {
+        "name": "Starr Shorbrook",
+        "saledate": null,
+        "purchasedate": "11/2/2020"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "JN1CV6FE8FM592157",
+    "Year": 1997,
+    "Make": {
+      "make": "GMC",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.gmc.com/"
+    },
+    "Model": "2500",
+    "Owners": [
+      {
+        "name": "Essy Kelsell",
+        "saledate": null,
+        "purchasedate": "1/17/1997"
+      },
+      {
+        "name": "Jemiah Byneth",
+        "saledate": null,
+        "purchasedate": "1/17/1997"
+      }
+    ],
+    "Color": "Green",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "1G6DM577680346123",
+    "Year": 2000,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "Taurus",
+    "Owners": [
+      {
+        "name": "Selinda MacKeague",
+        "saledate": "8/29/2021",
+        "purchasedate": "1/9/2000"
+      },
+      {
+        "name": "Ruben Firpo",
+        "saledate": null,
+        "purchasedate": "8/29/2021"
+      }
+    ],
+    "Color": "Green",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WBABD33494J374388",
+    "Year": 2010,
+    "Make": {
+      "make": "Volkswagen",
+      "CEO": "Oliver Blume",
+      "Founded": 1937,
+      "Website": "https://www.vw.com/"
+    },
+    "Model": "Cabriolet",
+    "Owners": [
+      {
+        "name": "Thorin Maslin",
+        "saledate": "7/16/2013",
+        "purchasedate": "10/1/2009"
+      },
+      {
+        "name": "Carmina Boddam",
+        "saledate": null,
+        "purchasedate": "7/16/2013"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Convertible"
+  },
+  {
+    "VIN": "1N6AA0ECXEN385336",
+    "Year": 1995,
+    "Make": {
+      "make": "Jeep",
+      "CEO": "Christian Meunier",
+      "Founded": 1943,
+      "Website": "https://www.jeep.com/"
+    },
+    "Model": "Wrangler",
+    "Owners": [
+      {
+        "name": "Rafael Botger",
+        "saledate": "3/8/2020",
+        "purchasedate": "12/25/1994"
+      },
+      {
+        "name": "Saxon Haggas",
+        "saledate": null,
+        "purchasedate": "3/8/2020"
+      }
+    ],
+    "Color": "Brown",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "SCBDP3ZA1BC555053",
+    "Year": 2008,
+    "Make": {
+      "make": "Maybach",
+      "CEO": "Ola Kaellenius",
+      "Founded": 1909,
+      "Website": "https://maybach.com/"
+    },
+    "Model": "57",
+    "Owners": [
+      {
+        "name": "Tadio Jeyes",
+        "saledate": "9/6/2009",
+        "purchasedate": "4/12/2008"
+      },
+      {
+        "name": "Fanechka Jore",
+        "saledate": null,
+        "purchasedate": "9/6/2009"
+      }
+    ],
+    "Color": "Pink",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "JTEBU5JRXC5974398",
+    "Year": 2005,
+    "Make": {
+      "make": "Suzuki",
+      "CEO": "Osamu Suzuki",
+      "Founded": 1909,
+      "Website": "https://www.globalsuzuki.com/"
+    },
+    "Model": "Forenza",
+    "Owners": [
+      {
+        "name": "Ogden Dunkerk",
+        "saledate": "5/11/2012",
+        "purchasedate": "5/1/2005"
+      },
+      {
+        "name": "Jasmine Danson",
+        "saledate": null,
+        "purchasedate": "5/11/2012"
+      }
+    ],
+    "Color": "Black",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "55SWF4JB9FU800868",
+    "Year": 2007,
+    "Make": {
+      "make": "Hyundai",
+      "CEO": "Eon Tae Ha",
+      "Founded": 1967,
+      "Website": "https://www.hyundai.com/"
+    },
+    "Model": "Elantra",
+    "Owners": [
+      {
+        "name": "Hussein Trevithick",
+        "saledate": null,
+        "purchasedate": "4/13/2007"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WAU2GAFC2FN160000",
+    "Year": 2006,
+    "Make": {
+      "make": "Buick",
+      "CEO": "Mary Barra",
+      "Founded": 1903,
+      "Website": "https://www.buick.com/"
+    },
+    "Model": "Terraza",
+    "Owners": [
+      {
+        "name": "Fanechka Jore",
+        "saledate": "6/16/2009",
+        "purchasedate": "11/5/2005"
+      },
+      {
+        "name": "Sherill Madigan",
+        "saledate": null,
+        "purchasedate": "6/16/2009"
+      }
+    ],
+    "Color": "Red",
+    "Type": "Van"
+  },
+  {
+    "VIN": "1G4GH5G39DF789090",
+    "Year": 2022,
+    "Make": {
+      "make": "Mercedes-Benz",
+      "CEO": "Ola Kaellenius",
+      "Founded": 1926,
+      "Website": "https://www.mercedes-benz.com/"
+    },
+    "Model": "CL-Class",
+    "Owners": [
+      {
+        "name": "Rory Dillistone",
+        "saledate": null,
+        "purchasedate": "1/21/2022"
+      }
+    ],
+    "Color": "Pink",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "WAUEH94F77N647071",
+    "Year": 2001,
+    "Make": {
+      "make": "Dodge",
+      "CEO": "Tim Kuniskis",
+      "Founded": 1900,
+      "Website": "https://www.dodge.com/"
+    },
+    "Model": "Ram Van 1500",
+    "Owners": [
+      {
+        "name": "Link Ech",
+        "saledate": null,
+        "purchasedate": "10/22/2000"
+      }
+    ],
+    "Color": "Purple",
+    "Type": "Van"
+  },
+  {
+    "VIN": "WBAHL83516D057936",
+    "Year": 2006,
+    "Make": {
+      "make": "Chevrolet",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.chevrolet.com/"
+    },
+    "Model": "SSR",
+    "Owners": [
+      {
+        "name": "Saxon Haggas",
+        "saledate": "7/28/2017",
+        "purchasedate": "7/27/2006"
+      },
+      {
+        "name": "Binnie Lorden",
+        "saledate": null,
+        "purchasedate": "7/28/2017"
+      }
+    ],
+    "Color": "Red",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "1G6AA5RX6F0841699",
+    "Year": 2011,
+    "Make": {
+      "make": "Lincoln",
+      "CEO": "Jim Farley",
+      "Founded": 1917,
+      "Website": "https://lincoln.com/"
+    },
+    "Model": "Navigator",
+    "Owners": [
+      {
+        "name": "Sherill Madigan",
+        "saledate": null,
+        "purchasedate": "4/19/2011"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "3C6JR6CT2DG158366",
+    "Year": 2009,
+    "Make": {
+      "make": "Jeep",
+      "CEO": "Christian Meunier",
+      "Founded": 1943,
+      "Website": "https://www.jeep.com/"
+    },
+    "Model": "Commander",
+    "Owners": [
+      {
+        "name": "Vicky Eschalette",
+        "saledate": null,
+        "purchasedate": "11/30/2008"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "SAJWA4DC0CM638461",
+    "Year": 2016,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "F150",
+    "Owners": [
+      {
+        "name": "Burnard Mynett",
+        "saledate": "6/15/2019",
+        "purchasedate": "3/3/2016"
+      },
+      {
+        "name": "Kristin Pedlar",
+        "saledate": null,
+        "purchasedate": "6/15/2019"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "WAUHE98P49A391703",
+    "Year": 1997,
+    "Make": {
+      "make": "Cadillac",
+      "CEO": "Mary Barra",
+      "Founded": 1902,
+      "Website": "https://cadillac.com/"
+    },
+    "Model": "Eldorado",
+    "Owners": [
+      {
+        "name": "Starr Shorbrook",
+        "saledate": null,
+        "purchasedate": "11/17/1996"
+      }
+    ],
+    "Color": "Black",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "1D7RE3GK5BS292274",
+    "Year": 2001,
+    "Make": {
+      "make": "GMC",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.gmc.com/"
+    },
+    "Model": "Yukon XL 1500",
+    "Owners": [
+      {
+        "name": "Arielle Thackray",
+        "saledate": null,
+        "purchasedate": "7/28/2000"
+      }
+    ],
+    "Color": "Yellow",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "1N4AB7AP8DN910318",
+    "Year": 1988,
+    "Make": {
+      "make": "Alfa Romeo",
+      "CEO": "Jean-Philippe Imparato",
+      "Founded": 1910,
+      "Website": "https://alfaromeo.com/"
+    },
+    "Model": "164",
+    "Owners": [
+      {
+        "name": "Tonia Vater",
+        "saledate": null,
+        "purchasedate": "11/4/1987"
+      }
+    ],
+    "Color": "Green",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WBABD33466P635833",
+    "Year": 1990,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "Thunderbird",
+    "Owners": [
+      {
+        "name": "Binnie Lorden",
+        "saledate": "12/14/2017",
+        "purchasedate": "2/22/1990"
+      },
+      {
+        "name": "Tonia Vater",
+        "saledate": null,
+        "purchasedate": "12/14/2017"
+      }
+    ],
+    "Color": "Maroon",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "JTHBL5EF4F1603741",
+    "Year": 2004,
+    "Make": {
+      "make": "Nissan",
+      "CEO": "Carlos Ghosn",
+      "Founded": 1933,
+      "Website": "https://www.nissanusa.com/"
+    },
+    "Model": "Pathfinder",
+    "Owners": [
+      {
+        "name": "Hewitt Steet",
+        "saledate": "9/21/2006",
+        "purchasedate": "3/23/2004"
+      },
+      {
+        "name": "Patrick Starr",
+        "saledate": null,
+        "purchasedate": "9/21/2006"
+      }
+    ],
+    "Color": "Black",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "5NPEB4AC3EH879861",
+    "Year": 1995,
+    "Make": {
+      "make": "Jeep",
+      "CEO": "Christian Meunier",
+      "Founded": 1943,
+      "Website": "https://www.jeep.com/"
+    },
+    "Model": "Grand Cherokee",
+    "Owners": [
+      {
+        "name": "Devon Amburgy",
+        "saledate": "6/23/2020",
+        "purchasedate": "11/21/1994"
+      },
+      {
+        "name": "Arielle Thackray",
+        "saledate": null,
+        "purchasedate": "6/23/2020"
+      }
+    ],
+    "Color": "Green",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "WAUSF98E07A723683",
+    "Year": 2005,
+    "Make": {
+      "make": "Toyota",
+      "CEO": "Koji Sato",
+      "Founded": 1937,
+      "Website": "https://www.toyota.com/"
+    },
+    "Model": "Corolla",
+    "Owners": [
+      {
+        "name": "Goldie Acarson",
+        "saledate": "10/25/2012",
+        "purchasedate": "3/30/2005"
+      },
+      {
+        "name": "Alexandra Chatel",
+        "saledate": null,
+        "purchasedate": "10/25/2012"
+      }
+    ],
+    "Color": "Purple",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WBA3C1C53DF172475",
+    "Year": 2020,
+    "Make": {
+      "make": "Chevrolet",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.chevrolet.com/"
+    },
+    "Model": "Silverado 3500",
+    "Owners": [
+      {
+        "name": "Lonnard Longstreet",
+        "saledate": null,
+        "purchasedate": "3/2/2020"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "WA1VMAFP2FA468216",
+    "Year": 2001,
+    "Make": {
+      "make": "Toyota",
+      "CEO": "Koji Sato",
+      "Founded": 1937,
+      "Website": "https://www.toyota.com/"
+    },
+    "Model": "Echo",
+    "Owners": [
+      {
+        "name": "Alexandra Chatel",
+        "saledate": null,
+        "purchasedate": "5/12/2001"
+      }
+    ],
+    "Color": "White",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "5UXKU6C5XF0100380",
+    "Year": 2001,
+    "Make": {
+      "make": "Nissan",
+      "CEO": "Carlos Ghosn",
+      "Founded": 1933,
+      "Website": "https://www.nissanusa.com/"
+    },
+    "Model": "Quest",
+    "Owners": [
+      {
+        "name": "Jemimah Byneth",
+        "saledate": null,
+        "purchasedate": "1/27/2001"
+      }
+    ],
+    "Color": "Silver",
+    "Type": "Van"
+  },
+  {
+    "VIN": "JTHBP5C21C5346370",
+    "Year": 1992,
+    "Make": {
+      "make": "Lexus",
+      "CEO": "Koji Sato",
+      "Founded": 1989,
+      "Website": "https://www.lexus.com/"
+    },
+    "Model": "ES",
+    "Owners": [
+      {
+        "name": "Skipper Donaway",
+        "saledate": "6/23/2013",
+        "purchasedate": "10/27/1991"
+      },
+      {
+        "name": "Melina Ody",
+        "saledate": null,
+        "purchasedate": "6/23/2013"
+      }
+    ],
+    "Color": "White",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "JN8AZ1FY7EW489146",
+    "Year": 1982,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "LTD Crown Victoria",
+    "Owners": [
+      {
+        "name": "Armstrong Meaton",
+        "saledate": "1/11/2017",
+        "purchasedate": "4/10/1982"
+      },
+      {
+        "name": "Rory Dillistone",
+        "saledate": null,
+        "purchasedate": "1/11/2017"
+      }
+    ],
+    "Color": "Maroon",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "WBABS53421J959911",
+    "Year": 1994,
+    "Make": {
+      "make": "Mazda",
+      "CEO": "Akira Marumoto",
+      "Founded": 1920,
+      "Website": "https://www.mazda.com/"
+    },
+    "Model": "626",
+    "Owners": [
+      {
+        "name": "Carmina Boddam",
+        "saledate": null,
+        "purchasedate": "7/5/1994"
+      }
+    ],
+    "Color": "Brown",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "4A31K2DF6CE743999",
+    "Year": 2006,
+    "Make": {
+      "make": "GMC",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.gmc.com/"
+    },
+    "Model": "Sierra 2500",
+    "Owners": [
+      {
+        "name": "Sasha Keppe",
+        "saledate": null,
+        "purchasedate": "12/19/2005"
+      }
+    ],
+    "Color": "Gray",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "1N6AF0KX6EN325367",
+    "Year": 2014,
+    "Make": {
+      "make": "Mazda",
+      "CEO": "Akira Marumoto",
+      "Founded": 1920,
+      "Website": "https://www.mazda.com/"
+    },
+    "Model": "CX-7",
+    "Owners": [
+      {
+        "name": "Rosie MacIntyre",
+        "saledate": "2/25/2018",
+        "purchasedate": "5/1/2014"
+      },
+      {
+        "name": "Hewitt Street",
+        "saledate": null,
+        "purchasedate": "2/25/2018"
+      }
+    ],
+    "Color": "Red",
+    "Type": "SUV"
+  },
+  {
+    "VIN": "2HNYD18801H033031",
+    "Year": 2005,
+    "Make": {
+      "make": "Mercedes-Benz",
+      "CEO": "Ola Kaellenius",
+      "Founded": 1926,
+      "Website": "https://www.mercedes-benz.com/"
+    },
+    "Model": "E-Class",
+    "Owners": [
+      {
+        "name": "Bev Ruecastle",
+        "saledate": null,
+        "purchasedate": "10/27/2004"
+      }
+    ],
+    "Color": "Yellow",
+    "Type": "Sedan"
+  },
+  {
+    "VIN": "1G4GC5GC8BF593153",
+    "Year": 2015,
+    "Make": {
+      "make": "Mazda",
+      "CEO": "Akira Marumoto",
+      "Founded": 1920,
+      "Website": "https://www.mazda.com/"
+    },
+    "Model": "MX-5",
+    "Owners": [
+      {
+        "name": "Pegeen Tuxwell",
+        "saledate": "3/23/2019",
+        "purchasedate": "11/15/2014"
+      },
+      {
+        "name": "Sasha Keppe",
+        "saledate": "6/12/2021",
+        "purchasedate": "3/23/2019"
+      },
+      {
+        "name": "Philipa Robet",
+        "saledate": null,
+        "purchasedate": "6/12/2021"
+      }
+    ],
+    "Color": "Yellow",
+    "Type": "Convertible"
+  },
+  {
+    "VIN": "1GYS3BKJ1FR328057",
+    "Year": 1996,
+    "Make": {
+      "make": "Chevrolet",
+      "CEO": "Mary Barra",
+      "Founded": 1911,
+      "Website": "https://www.chevrolet.com/"
+    },
+    "Model": "Corvette",
+    "Owners": [
+      {
+        "name": "Jasmine Danson",
+        "saledate": "7/27/2008",
+        "purchasedate": "9/26/1995"
+      },
+      {
+        "name": "Jemiah Byneth",
+        "saledate": null,
+        "purchasedate": "7/27/2008"
+      }
+    ],
+    "Color": "Blue",
+    "Type": "Coupe"
+  },
+  {
+    "VIN": "5UXFG83509L633667",
+    "Year": 1994,
+    "Make": {
+      "make": "Ford",
+      "CEO": "Jim Farley",
+      "Founded": 1903,
+      "Website": "https://www.ford.com/"
+    },
+    "Model": "F350",
+    "Owners": [
+      {
+        "name": "Philipa Robet",
+        "saledate": null,
+        "purchasedate": "7/14/1994"
+      }
+    ],
+    "Color": "Orange",
+    "Type": "Truck"
+  },
+  {
+    "VIN": "3FADP4AJ2FM354030",
+    "Year": 1996,
+    "Make": {
+      "make": "Dodge",
+      "CEO": "Tim Kuniskis",
+      "Founded": 1900,
+      "Website": "https://www.dodge.com/"
+    },
+    "Model": "Caravan",
+    "Owners": [
+      {
+        "name": "Ruben Firpo",
+        "saledate": "1/14/1998",
+        "purchasedate": "9/19/1995"
+      },
+      {
+        "name": "Rafael Botger",
+        "saledate": "9/23/2007",
+        "purchasedate": "1/14/1998"
+      },
+      {
+        "name": "Vicky Eschalette",
+        "saledate": null,
+        "purchasedate": "9/23/2007"
+      }
+    ],
+    "Color": "Gray",
+    "Type": "Van"
+  },
+  {
+    "VIN": "WA1LMBFE1BD578808",
+    "Year": 2014,
+    "Make": {
+      "make": "Infiniti",
+      "CEO": "Carlos Ghosn",
+      "Founded": 1989,
+      "Website": "https://www.infiniti.com/"
+    },
+    "Model": "G37",
+    "Owners": [
+      {
+        "name": "Merrily MacConchie",
+        "saledate": null,
+        "purchasedate": "7/17/2014"
+      }
+    ],
+    "Color": "Black",
+    "Type": "Coupe"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "make": "Alfa Romeo",
+    "CEO": "Jean-Philippe Imparato",
+    "Founded": 1910,
+    "Website": "https://alfaromeo.com/"
+  },
+  {
+    "make": "Audi",
+    "CEO": "Gernot Dollner",
+    "Founded": 1909,
+    "Website": "https://www.audiusa.com/"
+  },
+  {
+    "make": "BMW",
+    "CEO": "Harald Kruger",
+    "Founded": 1916,
+    "Website": "https://www.bmw.com/"
+  },
+  {
+    "make": "Buick",
+    "CEO": "Mary Barra",
+    "Founded": 1903,
+    "Website": "https://www.buick.com/"
+  },
+  {
+    "make": "Cadillac",
+    "CEO": "Mary Barra",
+    "Founded": 1902,
+    "Website": "https://cadillac.com/"
+  },
+  {
+    "make": "Chevrolet",
+    "CEO": "Mary Barra",
+    "Founded": 1911,
+    "Website": "https://www.chevrolet.com/"
+  },
+  {
+    "make": "Dodge",
+    "CEO": "Tim Kuniskis",
+    "Founded": 1900,
+    "Website": "https://www.dodge.com/"
+  },
+  {
+    "make": "Ford",
+    "CEO": "Jim Farley",
+    "Founded": 1903,
+    "Website": "https://www.ford.com/"
+  },
+  {
+    "make": "GMC",
+    "CEO": "Mary Barra",
+    "Founded": 1911,
+    "Website": "https://www.gmc.com/"
+  },
+  {
+    "make": "Hyundai",
+    "CEO": "Eon Tae Ha",
+    "Founded": 1967,
+    "Website": "https://www.hyundai.com/"
+  },
+  {
+    "make": "Infiniti",
+    "CEO": "Carlos Ghosn",
+    "Founded": 1989,
+    "Website": "https://www.infiniti.com/"
+  },
+  {
+    "make": "Jeep",
+    "CEO": "Christian Meunier",
+    "Founded": 1943,
+    "Website": "https://www.jeep.com/"
+  },
+  {
+    "make": "Lexus",
+    "CEO": "Koji Sato",
+    "Founded": 1989,
+    "Website": "https://www.lexus.com/"
+  },
+  {
+    "make": "Lincoln",
+    "CEO": "Jim Farley",
+    "Founded": 1917,
+    "Website": "https://lincoln.com/"
+  },
+  {
+    "make": "Maybach",
+    "CEO": "Ola Kaellenius",
+    "Founded": 1909,
+    "Website": "https://maybach.com/"
+  },
+  {
+    "make": "Mazda",
+    "CEO": "Akira Marumoto",
+    "Founded": 1920,
+    "Website": "https://www.mazda.com/"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "CEO": "Ola Kaellenius",
+    "Founded": 1926,
+    "Website": "https://www.mercedes-benz.com/"
+  },
+  {
+    "make": "Mercury",
+    "CEO": "Jim Farley",
+    "Founded": 1938,
+    "Website": "https://www.ford.com/"
+  },
+  {
+    "make": "Nissan",
+    "CEO": "Carlos Ghosn",
+    "Founded": 1933,
+    "Website": "https://www.nissanusa.com/"
+  },
+  {
+    "make": "Ram",
+    "CEO": "Tim Kuniskis",
+    "Founded": 2010,
+    "Website": "https://www.ramtrucks.com/"
+  },
+  {
+    "make": "Suzuki",
+    "CEO": "Osamu Suzuki",
+    "Founded": 1909,
+    "Website": "https://www.globalsuzuki.com/"
+  },
+  {
+    "make": "Toyota",
+    "CEO": "Koji Sato",
+    "Founded": 1937,
+    "Website": "https://www.toyota.com/"
+  },
+  {
+    "make": "Volkswagen",
+    "CEO": "Oliver Blume",
+    "Founded": 1937,
+    "Website": "https://www.vw.com/"
+  }
+]

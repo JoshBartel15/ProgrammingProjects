@@ -1,0 +1,26 @@
+﻿<Window x:Class="CrudData.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrudData"
+        mc:Ignorable="d"
+        Title="EditWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtYear" HorizontalAlignment="Left" Margin="252,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtModel" HorizontalAlignment="Left" Margin="627,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbColor" HorizontalAlignment="Left" Margin="158,242,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbType" HorizontalAlignment="Left" Margin="540,239,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbMake" HorizontalAlignment="Left" Margin="457,135,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnUpdate" Content="Update Car" HorizontalAlignment="Left" Margin="400,264,0,0" VerticalAlignment="Top" Click="btnUpdate_Click"/>
+        <Button x:Name="btnTrans" Content="Get Car" HorizontalAlignment="Left" Margin="343,59,0,0" VerticalAlignment="Top" Click="btnTrans_Click"/>
+        <Label x:Name="lblNewCar" Content="Label" HorizontalAlignment="Center" Margin="0,361,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtVIN" HorizontalAlignment="Left" Margin="75,146,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="VIN" HorizontalAlignment="Left" Margin="112,104,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Year" HorizontalAlignment="Left" Margin="282,95,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Make" HorizontalAlignment="Left" Margin="486,87,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Model" HorizontalAlignment="Left" Margin="649,87,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Color" HorizontalAlignment="Left" Margin="183,190,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Type" HorizontalAlignment="Left" Margin="570,190,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+    </Grid>
+</Window>

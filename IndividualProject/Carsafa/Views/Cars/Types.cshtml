@@ -1,0 +1,43 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewData["Title"] = "Types";
+}
+
+<h1>Types</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Vin
+            </th>
+            <th>
+                Year
+            </th>
+            <th>
+                Model
+            </th>
+            <th>
+                Color
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Make
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a href="Cars/Index?type=@item">@item</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

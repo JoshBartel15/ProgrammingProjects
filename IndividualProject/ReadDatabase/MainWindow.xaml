@@ -1,0 +1,19 @@
+﻿<Window x:Class="ReadDatabase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadDatabase"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstMake" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,175,610,0"/>
+        <ListBox x:Name="lstCar" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="195,175,430,0"/>
+        <ListBox x:Name="lstOwner" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="375,175,250,10"/>
+        <Button x:Name="btnUpload" Content="Upload Cars" HorizontalAlignment="Left" Margin="227,99,0,0" VerticalAlignment="Top" Click="btnUpload_Click"/>
+        <Label Content="Create Cars Database" HorizontalAlignment="Left" Margin="194,10,0,0" VerticalAlignment="Top" FontSize="40"/>
+        <Button x:Name="btnDelete" Content="Delete Data" HorizontalAlignment="Left" Margin="510,99,0,0" VerticalAlignment="Top" Click="btnDelete_Click"/>
+        <ListBox x:Name="lstPurchase" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="555,175,0,0"/>
+
+    </Grid>
+</Window>

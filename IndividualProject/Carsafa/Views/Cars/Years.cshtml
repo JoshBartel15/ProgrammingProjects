@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Carsafa.Models.Car>
+
+@{
+    ViewData["Title"] = "Years";
+}
+
+<h1>Years</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                VIN
+            </th>
+            <th>
+                Year
+            </th>
+            <th>
+                Model
+            </th>
+            <th>
+                Color
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Make
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a href="Cars/Index?year=@item">@item</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

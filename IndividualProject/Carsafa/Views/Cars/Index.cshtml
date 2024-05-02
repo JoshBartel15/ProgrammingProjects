@@ -1,0 +1,131 @@
+﻿@model IEnumerable<Carsafa.Models.Car>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    body {
+        background-image: url("https://w0.peakpx.com/wallpaper/439/772/HD-wallpaper-pick-up-florent-beach-board-boot-car-coast-cool-french-ocean-old-pickup-summer-sun-surf-surfboard-truck-trunk-van-vintage-wave.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <form action="/Cars/Index">
+            <label for="make">Filer Makes:</label>
+<select name="make" id="make">
+    <option value="All">All</option>
+
+            @foreach (var make in Model.Select(m => m.Make).Distinct())
+            {
+                @if (Model != null)
+                {
+                    <p>@Model.Select(m => m.Make.Make1).Distinct()</p>
+                }
+
+                <option value="@make.Make1">@make.Make1</option>
+            }
+            </select>
+        <label for="color">Filer Colors:</label>
+        <select name="color" id="color">
+            <option value="All">All</option>
+
+            @foreach (var color in Model.Select(c => c.Color).Distinct())
+            {
+                @if (Model != null)
+                {
+                    <option value="@color">@color</option>
+                }
+            }
+        </select>
+
+        <label for="year">Filer Years:</label>
+        <select name="year" id="year">
+            <option value="All">All</option>
+
+            @foreach (var year in Model.Select(y => y.Year).Distinct())
+            {
+                @if (Model != null)
+                {
+                    <option value="@year">@year</option>
+                }
+            }
+        </select>
+
+        <label for="type">Filer Colors:</label>
+        <select name="type" id="type">
+            <option value="All">All</option>
+
+            @foreach (var type in Model.Select(c => c.Type).Distinct())
+            {
+                @if (Model != null)
+                {
+                    <option value="@type">@type</option>
+                }
+            }
+        </select>
+        <input type="submit" value="Submit">
+        <input type="submit" value="Reset">
+    </form>
+</body>
+</html>
+<h1 style="text-align:center; font-family:'Bell MT';"><bold>Cars</bold></h1>
+
+<table style="font-weight:bold" class="table">
+    <thead>
+        <tr style="font-family:'Agency FB'">
+            <th>
+                @Html.DisplayNameFor(model => model.Vin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Make)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr style="font-family:'Agency FB';">
+            <td>
+                @Html.DisplayFor(modelItem => item.Vin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make.Make1)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.CarId" style="text-decoration:none">Details</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

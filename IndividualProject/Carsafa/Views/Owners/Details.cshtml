@@ -1,0 +1,44 @@
+﻿@model Carsafa.Models.Owner
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Name</h1>
+<style>
+    body {
+        background-image: url("https://wallpapercave.com/wp/wp4800183.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        font-weight: bold;
+        color: white;
+    }
+</style>
+
+<div>
+    <hr />
+    <dl class="row">
+@*         <dt class = "col-sm-2">
+            Owner Name
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd> *@
+        <dt class="col-sm-2">
+            @foreach (Purchase item in Model.Purchases)
+            {
+                <p>Car Owned</p>
+            }
+        </dt>
+        <dd class="col-sm-10">
+            @foreach (Purchase item in Model.Purchases)
+            {
+                <p @item.Car.CarId>@item.Car.ToString()</p>
+            }
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

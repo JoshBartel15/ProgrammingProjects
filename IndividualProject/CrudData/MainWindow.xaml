@@ -1,0 +1,20 @@
+﻿<Window x:Class="CrudData.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrudData"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstCars" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,198,0,0"/>
+        <Button x:Name="btnEdit" Content="Edit Car" HorizontalAlignment="Left" Margin="178,114,0,0" VerticalAlignment="Top" Click="btnEdit_Click"/>
+        <Button x:Name="btnDLT" Content="Delete Car" HorizontalAlignment="Center" Margin="0,114,0,0" VerticalAlignment="Top" Click="btnDLT_Click"/>
+        <Button x:Name="btnCreate" Content="Create Car" HorizontalAlignment="Left" Margin="573,114,0,0" VerticalAlignment="Top" Click="btnCreate_Click"/>
+        <Label Content="Cars" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Arial Black"/>
+        <Button x:Name="btnOwners" Content="Edit an Owner" HorizontalAlignment="Left" Margin="678,10,0,0" VerticalAlignment="Top" Click="btnOwners_Click"/>
+        <Button x:Name="btnMakes" Content="Edit a Make" HorizontalAlignment="Left" Margin="678,30,0,0" VerticalAlignment="Top" Click="btnMakes_Click"/>
+        <Button x:Name="btnPurchase" Content="Edit a Purchase" HorizontalAlignment="Left" Margin="678,50,0,0" VerticalAlignment="Top" Click="btnPurchase_Click"/>
+
+    </Grid>
+</Window>
