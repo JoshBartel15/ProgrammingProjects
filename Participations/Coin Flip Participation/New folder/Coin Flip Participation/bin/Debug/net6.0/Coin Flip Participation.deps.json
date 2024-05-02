@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Coin Flip Participation/1.0.0": {
+        "runtime": {
+          "Coin Flip Participation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coin Flip Participation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Database_CRUD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Database_CRUD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnGO" Content="Go" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Click="btnGO_Click" Width="86"/>
+        <ListBox x:Name="lstToys" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,217,549,0" SelectionChanged="lstToys_SelectionChanged"/>
+        <ListBox x:Name="lstDogs" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="251,217,269,0" SelectionChanged="lstDogs_SelectionChanged"/>
+        <ListBox x:Name="lstDogToys" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="531,217,0,0"/>
+        <Image x:Name="imgToy" HorizontalAlignment="Left" Height="100" Margin="70,90,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image x:Name="imgDog" HorizontalAlignment="Left" Height="100" Margin="327,90,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button x:Name="btnConnect" Content="Give Toy to Dog" HorizontalAlignment="Left" Margin="666,45,0,0" VerticalAlignment="Top" Click="btnConnect_Click"/>
+        <Button x:Name="btnDelete" Content="Take Toy Away" HorizontalAlignment="Left" Margin="515,45,0,0" VerticalAlignment="Top" Click="btnDelete_Click"/>
+        <Button x:Name="btnShare" Content="Share with Dog Friend" HorizontalAlignment="Left" Margin="98,45,0,0" VerticalAlignment="Top" Click="btnShare_Click"/>
+        <Label x:Name="lblOwner" Content="Owner" HorizontalAlignment="Left" Margin="666,141,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

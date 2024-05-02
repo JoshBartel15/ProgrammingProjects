@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\bin\Debug\net6.0\Inclass Participation.exe
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\bin\Debug\net6.0\Inclass Participation.deps.json
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\bin\Debug\net6.0\Inclass Participation.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\bin\Debug\net6.0\Inclass Participation.dll
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\bin\Debug\net6.0\Inclass Participation.pdb
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.dll
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\refint\Inclass Participation.dll
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.pdb
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\Inclass Participation.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\Inclass Participation\Inclass Participation\obj\Debug\net6.0\ref\Inclass Participation.dll

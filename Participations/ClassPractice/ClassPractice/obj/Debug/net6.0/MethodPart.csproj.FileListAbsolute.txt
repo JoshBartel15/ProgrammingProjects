@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\bin\Debug\net6.0\MethodPart.exe
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\bin\Debug\net6.0\MethodPart.deps.json
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\bin\Debug\net6.0\MethodPart.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\bin\Debug\net6.0\MethodPart.dll
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\bin\Debug\net6.0\MethodPart.pdb
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.dll
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\refint\MethodPart.dll
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.pdb
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\MethodPart.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\ClassPractice\ClassPractice\obj\Debug\net6.0\ref\MethodPart.dll

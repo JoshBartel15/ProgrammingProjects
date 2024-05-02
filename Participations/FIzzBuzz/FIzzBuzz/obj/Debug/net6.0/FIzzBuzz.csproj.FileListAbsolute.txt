@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\bin\Debug\net6.0\FIzzBuzz.exe
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\bin\Debug\net6.0\FIzzBuzz.deps.json
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\bin\Debug\net6.0\FIzzBuzz.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\bin\Debug\net6.0\FIzzBuzz.dll
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\bin\Debug\net6.0\FIzzBuzz.pdb
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.dll
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\refint\FIzzBuzz.dll
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.pdb
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\FIzzBuzz.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\FIzzBuzz\FIzzBuzz\obj\Debug\net6.0\ref\FIzzBuzz.dll

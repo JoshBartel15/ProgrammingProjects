@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\bin\Debug\net6.0\StringMan.exe
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\bin\Debug\net6.0\StringMan.deps.json
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\bin\Debug\net6.0\StringMan.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\bin\Debug\net6.0\StringMan.dll
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\bin\Debug\net6.0\StringMan.pdb
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.dll
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\refint\StringMan.dll
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.pdb
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\StringMan.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\Participation\StringMan\obj\Debug\net6.0\ref\StringMan.dll

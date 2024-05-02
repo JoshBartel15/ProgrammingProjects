@@ -1,0 +1,17 @@
+﻿<Window x:Class="FIrstWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FIrstWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="Grid" Background="#FF8D3232">
+        <TextBox x:Name="txtFN" HorizontalAlignment="Left" Margin="398,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="297,102,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Bahnschrift SemiBold" FontSize="18" RenderTransformOrigin="1.107,0.585"/>
+        <Button x:Name="btnEnt" Content="Enter Data" HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" FontSize="22" Click="btnEnt_Click" MouseEnter="btnEnt_MouseEnter" IsDefault="True"/>
+        <Label Content="Birthday" HorizontalAlignment="Left" Margin="289,185,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Bahnschrift SemiBold" FontSize="18"/>
+        <DatePicker x:Name="dprBday" HorizontalAlignment="Left" Margin="398,189,0,0" VerticalAlignment="Top" Width="112"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\bin\Debug\net6.0\Coin Flip Participation.exe
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\bin\Debug\net6.0\Coin Flip Participation.deps.json
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\bin\Debug\net6.0\Coin Flip Participation.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\bin\Debug\net6.0\Coin Flip Participation.dll
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\bin\Debug\net6.0\Coin Flip Participation.pdb
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.dll
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\refint\Coin Flip Participation.dll
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.pdb
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\Coin Flip Participation.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\Coin Flip Participation\Coin Flip Participation\obj\Debug\net6.0\ref\Coin Flip Participation.dll

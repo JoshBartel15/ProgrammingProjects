@@ -1,0 +1,16 @@
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\Cars.csv
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\ClassesParticipation2.exe
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\ClassesParticipation2.deps.json
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\ClassesParticipation2.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\ClassesParticipation2.dll
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\bin\Debug\net6.0\ClassesParticipation2.pdb
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.dll
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\refint\ClassesParticipation2.dll
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.pdb
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ClassesParticipation2.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\ClassesParticipation2\ClassesParticipation2\obj\Debug\net6.0\ref\ClassesParticipation2.dll

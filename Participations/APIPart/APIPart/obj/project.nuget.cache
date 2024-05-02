@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bD8PhZyR73hTZkpBPG4LeB1QFp31e8s5NJwcYafSB0ndKAhG6SgTDdIm3TAcEvBIJd9YSelO6dryMRCNoxmSUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh Bartel\\source\\repos\\APIPart\\APIPart\\APIPart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Bartel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\bin\Debug\net6.0\ClassParticipation.exe
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\bin\Debug\net6.0\ClassParticipation.deps.json
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\bin\Debug\net6.0\ClassParticipation.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\bin\Debug\net6.0\ClassParticipation.dll
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\bin\Debug\net6.0\ClassParticipation.pdb
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.dll
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\refint\ClassParticipation.dll
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.pdb
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ClassParticipation.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\ClassParticipation\ClassParticipation\obj\Debug\net6.0\ref\ClassParticipation.dll

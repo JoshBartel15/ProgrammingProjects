@@ -1,0 +1,36 @@
+﻿body
+{
+    background-color: darkgray;
+}
+h1 
+{
+    text-align: center;
+    font-size: 250%;
+    color: greenyellow;
+}
+div.container 
+{
+    padding: 2px 16px;
+}
+div.card 
+{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 300px;
+    padding: 4px 4px;
+    margin: 10px;
+    background-color: white;
+}
+div.card:hover 
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(.75,1.5);
+    transition: all .5s ease-in-out;
+}
+img 
+{
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+}

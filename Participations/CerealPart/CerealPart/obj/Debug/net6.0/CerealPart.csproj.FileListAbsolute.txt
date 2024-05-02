@@ -1,0 +1,16 @@
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\CerealPart.exe
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\CerealPart.deps.json
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\CerealPart.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\CerealPart.dll
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\CerealPart.pdb
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.dll
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\refint\CerealPart.dll
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.pdb
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\CerealPart.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\obj\Debug\net6.0\ref\CerealPart.dll
+C:\Users\Josh Bartel\source\repos\CerealPart\CerealPart\bin\Debug\net6.0\Cereal_Data.txt

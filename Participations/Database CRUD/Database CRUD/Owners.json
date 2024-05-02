@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Bob",
+    "Image": "https://cdn.dribbble.com/users/1210339/screenshots/2767019/avatar18.gif"
+  },
+  {
+    "Id": 2,
+    "Name": "Matt",
+    "Image": "https://cdn.dribbble.com/users/1210339/screenshots/2767019/avatar18.gif"
+  },
+  {
+    "Id": 3,
+    "Name": "Sally",
+    "Image": "https://cdn.dribbble.com/users/1210339/screenshots/2773807/avatar20.gif"
+  },
+  {
+    "Id": 4,
+    "Name": "Jenna",
+    "Image": "https://cdn.dribbble.com/users/1210339/screenshots/2773807/avatar20.gif"
+  }
+]

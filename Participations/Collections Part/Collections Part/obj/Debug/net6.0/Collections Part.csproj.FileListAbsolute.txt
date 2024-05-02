@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\bin\Debug\net6.0\Collections Part.exe
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\bin\Debug\net6.0\Collections Part.deps.json
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\bin\Debug\net6.0\Collections Part.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\bin\Debug\net6.0\Collections Part.dll
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\bin\Debug\net6.0\Collections Part.pdb
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.dll
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\refint\Collections Part.dll
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.pdb
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\Collections Part.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\Collections Part\Collections Part\obj\Debug\net6.0\ref\Collections Part.dll

@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\bin\Debug\net6.0\String Manipulation Part.exe
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\bin\Debug\net6.0\String Manipulation Part.deps.json
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\bin\Debug\net6.0\String Manipulation Part.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\bin\Debug\net6.0\String Manipulation Part.dll
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\bin\Debug\net6.0\String Manipulation Part.pdb
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.dll
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\refint\String Manipulation Part.dll
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.pdb
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\String Manipulation Part.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\String Manipulation Part\String Manipulation Part\obj\Debug\net6.0\ref\String Manipulation Part.dll

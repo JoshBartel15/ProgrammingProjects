@@ -1,0 +1,18 @@
+﻿<Window x:Class="APIPart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APIPart"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/gettyimages-150327735-copy.jpg"/>
+        </Grid.Background>
+        <ComboBox x:Name="cmbCat" HorizontalAlignment="Left" Margin="120,163,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbCat_SelectionChanged"/>
+        <TextBox x:Name="txtJoke" HorizontalAlignment="Left" Margin="505,123,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="263" Height="194" FontSize="20" IsEnabled="False"/>
+        <Label Content="Select a Joke Category" HorizontalAlignment="Left" Margin="76,96,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Name": "Besty",
+    "Breed": "Sheepadoodle",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTfNvchZibxISnCp3IITrLlBW-F3g69yUew&usqp=CAU",
+    "OwnerId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Tiffy",
+    "Breed": "Goldendoodle",
+    "Image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-07/Goldendoodle.jpg",
+    "OwnerId": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Smiles",
+    "Breed": "Boxer",
+    "Image": "https://thesmartcanine.com/wp-content/uploads/2019/05/boxer-colors.jpg",
+    "OwnerId": 4
+  },
+  {
+    "Id": 4,
+    "Name": "Giggles",
+    "Breed": "Pitbull",
+    "Image": "https://cdn-fastly.petguide.com/media/2022/02/16/8247781/pitbull.jpg?size=1200x628",
+    "OwnerId": 4
+  },
+  {
+    "Id": 5,
+    "Name": "Rocky",
+    "Breed": "King Corso",
+    "Image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2022%2F05%2F04%2Fcane-corso-beach-2-231666658-2000.jpg",
+    "OwnerId": 1
+  },
+  {
+    "Id": 6,
+    "Name": "Lizzie",
+    "Breed": "Morkie",
+    "Image": "https://premierpups.com/azure/affordablepup/pups/morkie-puppies-637637542913934852.jpg",
+    "OwnerId": 2
+  },
+  {
+    "Id": 7,
+    "Name": "Piper",
+    "Breed": "Havanese",
+    "Image": "https://images.wagwalkingweb.com/media/breed/havanese/appearance/havanese.png",
+    "OwnerId": 2
+  }
+]

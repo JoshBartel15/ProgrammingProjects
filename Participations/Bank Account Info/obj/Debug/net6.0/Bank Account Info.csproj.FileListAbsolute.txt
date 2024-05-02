@@ -1,0 +1,15 @@
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\bin\Debug\net6.0\Bank Account Info.exe
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\bin\Debug\net6.0\Bank Account Info.deps.json
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\bin\Debug\net6.0\Bank Account Info.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\bin\Debug\net6.0\Bank Account Info.dll
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\bin\Debug\net6.0\Bank Account Info.pdb
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.dll
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\refint\Bank Account Info.dll
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.pdb
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\Bank Account Info.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\Bank Account Info\Bank Account Info\obj\Debug\net6.0\ref\Bank Account Info.dll

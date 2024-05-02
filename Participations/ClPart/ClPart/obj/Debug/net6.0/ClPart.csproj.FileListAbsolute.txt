@@ -1,0 +1,16 @@
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\ClPart.exe
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\Pharmaceutical Drugs.csv
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\ClPart.deps.json
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\ClPart.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\ClPart.dll
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\bin\Debug\net6.0\ClPart.pdb
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.csproj.AssemblyReference.cache
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.dll
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\refint\ClPart.dll
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.pdb
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ClPart.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\ClPart\ClPart\obj\Debug\net6.0\ref\ClPart.dll

@@ -1,0 +1,67 @@
+﻿div.info
+{
+    background-color: gray;
+    border: 5px solid black;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin:25px;
+    padding:15px;
+}
+div.info:hover
+{
+    transform:scale(2);
+    transition:all 0.5s ease-in;
+}
+nav
+{
+    background-color:crimson;
+    float:left;
+    height:100vh;
+    padding: 15px;
+}
+ul
+{
+    padding-left:0px;
+    list-style-type:none
+}
+li a
+{
+    background-color:white;
+    border-radius:20px;
+    padding:1em 1.5em;
+    text-decoration:none;
+    display:block;
+    margin-bottom:5px;
+    text-transform:uppercase;
+    text-align:center;
+}
+li a:hover
+{
+    background-color:lightgray;
+    transition:all 0.5s ease-in-out;
+}
+img
+{
+    margin:25px;
+}
+img:hover
+{
+    transform:scale(1.1);
+    transition:all 0.5s ease-in-out;
+}
+#Purpose
+{
+    margin:25px;
+}
+#Secret
+{
+    margin:25px;
+}
+#main
+{
+    float:left;
+}
+h1
+{
+    margin: 25px;
+}
