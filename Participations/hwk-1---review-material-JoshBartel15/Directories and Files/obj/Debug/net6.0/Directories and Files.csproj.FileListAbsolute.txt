@@ -1,0 +1,14 @@
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\bin\Debug\net6.0\Directories and Files.exe
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\bin\Debug\net6.0\Directories and Files.deps.json
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\bin\Debug\net6.0\Directories and Files.runtimeconfig.json
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\bin\Debug\net6.0\Directories and Files.dll
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\bin\Debug\net6.0\Directories and Files.pdb
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.AssemblyInfoInputs.cache
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.AssemblyInfo.cs
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.csproj.CoreCompileInputs.cache
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.dll
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\refint\Directories and Files.dll
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.pdb
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\Directories and Files.genruntimeconfig.cache
+C:\Users\Josh Bartel\source\repos\hwk-1---review-material-JoshBartel15\Directories and Files\obj\Debug\net6.0\ref\Directories and Files.dll
